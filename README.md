@@ -16,7 +16,7 @@ Please run “./pei/demoPEI.m” to build a PEI example.
 
 We provide source code to train and test MGANs model.
 
-Please prepare the training data as np file first and run
+Please prepare the training data as .mat file first and then run the .ipynb file.
 
 Models will be auto-saved in “./mgans/model”.
 
